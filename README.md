@@ -29,10 +29,10 @@ Use Closing Operation.
 
  
 ## Program:
-```
-Name : Shyam Kumar A
-Reg No : 212221230098
-```
+
+### Name : Shyam Kumar A
+### Reg No : 212221230098
+
 ### Import the necessary packages
 ```
 import numpy as np
@@ -70,7 +70,7 @@ plt.imshow(image1)
 <br>
 <br>
 
-![](IMG1.PNG)
+![](IMG1.png)
 <br>
 <br>
 <br>
@@ -80,7 +80,7 @@ plt.imshow(image1)
 <br>
 <br>
 
-![](IMG2.PNG)
+![](IMG2.png)
 
 <br>
 <br>
@@ -92,7 +92,7 @@ plt.imshow(image1)
 <br>
 <br>
 
-![](IMG3.PNG)
+![](IMG3.png)
 <br>
 <br>
 <br>
