@@ -44,7 +44,7 @@ import matplotlib.pyplot as plt
 ```
 img=np.zeros((100,500),dtype='uint8')
 font=cv2.FONT_HERSHEY_COMPLEX
-img1=cv2.putText(img,'AADHEESHWAR.A',(5,50),font,1.4,(255),5,cv2.LINE_AA)
+img1=cv2.putText(img,'Shyam Kumar A',(5,50),font,1.4,(255),5,cv2.LINE_AA)
 plt.imshow(img1)
 ```
 ### Create the structuring element
